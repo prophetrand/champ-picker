@@ -586,25 +586,308 @@
     {
         "name": "Maokai",
         "role": [
-            ""
+            "sup", "top"
         ],
-        "icon": ""
+        "icon": "https://esportspedia-lol.s3.amazonaws.com/6/64/MaokaiSquare.png"
     },
     
     {
         "name": "Ivern",
         "role": [
+            "jg"
+        ],
+        "icon": "https://1.bp.blogspot.com/-JrCYNnjSEnA/X71it7grwgI/AAAAAAAByHg/0PxSOBegbzU9ogzAEthCLWCFtpHWye-KQCLcBGAsYHQ/s300/4844.jpg"
+    },
+    
+    {
+        "name": "Sett",
+        "role": [
+            "top", "sup", "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Obsidian_Dragon_Sett_profileicon.png/revision/latest?cb=20200920103259"
+    },
+    
+    {
+        "name": "Brand",
+        "role": [
+            "sup", "mid"
+        ],
+        "icon": "https://www.mobafire.com/images/avatars/summoner-icon-harrowing-burning-hunger-brand.png"
+    },
+    
+    {
+        "name": "Ornn",
+        "role": [
+            "top"
+        ],
+        "icon": "https://1.bp.blogspot.com/-U1pwiNYVX24/X71iuyx0gWI/AAAAAAAByHo/LmZjnwInJpYuI54XFafooDFtQeU2VoIdACLcBGAsYHQ/s300/4846.jpg"
+    },
+    
+    {
+        "name": "Renekton",
+        "role": [
+            "top", "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Tencent_Renekton_profileicon.png/revision/latest?cb=20180715015610"
+    },
+    
+    {
+        "name": "Nidalee",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Challenger_Nidalee_profileicon.png/revision/latest?cb=20190405042117"
+    },
+    
+    {
+        "name": "Nocturne",
+        "role": [
+            "jg", "mid", "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Elderwood_Nocturne_profileicon.png/revision/latest?cb=20190821011408"
+    },
+    
+    {
+        "name": "Pantheon",
+        "role": [
+            "mid", "top", "jg", "sup"
+        ],
+        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18a3a07d-82dc-48cd-bb9f-a99af85ca73c/ddr48cg-0c7bff95-0797-4c83-85a8-bcb2df514e74.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4YTNhMDdkLTgyZGMtNDhjZC1iYjlmLWE5OWFmODVjYTczY1wvZGRyNDhjZy0wYzdiZmY5NS0wNzk3LTRjODMtODVhOC1iY2IyZGY1MTRlNzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Yed8T47U7zCLRp2ZriMDZAWoxQrdaySNARyj76mT0nM"
+    },
+    
+    {
+        "name": "Rek'sai",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://esportspedia-lol.s3.amazonaws.com/3/3e/Rek%27SaiSquare.png"
+    },
+    
+    {
+        "name": "Rengar",
+        "role": [
+            "top", "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Pretty_Kitty_Rengar_profileicon.png/revision/latest?cb=20190305235546"
+    },
+    
+    {
+        "name": "Kha'zix",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Championship_Kha%27Zix_profileicon.png/revision/latest?cb=20180913225708"
+    },
+    
+    {
+        "name": "Aurelion Sol",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Aurelion_Smol_profileicon.png/revision/latest?cb=20180731212107"
+    },
+    
+    {
+        "name": "Zed",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://i.redd.it/iiyq7332zd811.png"
+    },
+    
+    {
+        "name": "",
+        "role": [
             ""
         ],
         "icon": ""
     },
     
     {
-        "name": "Brand",
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
+        "role": [
+            ""
+        ],
+        "icon": ""
+    },
+    
+    {
+        "name": "",
         "role": [
             ""
         ],
         "icon": ""
     }
+    
+    
+    
     
 ]
