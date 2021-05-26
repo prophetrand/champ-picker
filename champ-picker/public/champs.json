@@ -82,7 +82,7 @@
     {
         "name": "Corki",
         "role": [
-            "mid", "bot"
+            "mid"
         ],
         "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Champie_Corki_profileicon.png/revision/latest?cb=20200417030314"
     },
@@ -346,7 +346,7 @@
     {
         "name": "Pyke",
         "role": [
-            "sup"
+            "sup", "mid"
         ],
         "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Champie_Pyke_profileicon.png/revision/latest?cb=20190515110529"
     },
@@ -652,11 +652,11 @@
         "role": [
             "mid", "top", "jg", "sup"
         ],
-        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18a3a07d-82dc-48cd-bb9f-a99af85ca73c/ddr48cg-0c7bff95-0797-4c83-85a8-bcb2df514e74.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4YTNhMDdkLTgyZGMtNDhjZC1iYjlmLWE5OWFmODVjYTczY1wvZGRyNDhjZy0wYzdiZmY5NS0wNzk3LTRjODMtODVhOC1iY2IyZGY1MTRlNzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Yed8T47U7zCLRp2ZriMDZAWoxQrdaySNARyj76mT0nM"
+        "icon": "https://i.redd.it/kgyq8s4oecq31.jpg"
     },
     
     {
-        "name": "Rek'sai",
+        "name": "Rek'Sai",
         "role": [
             "jg"
         ],
@@ -696,198 +696,514 @@
     },
     
     {
-        "name": "",
+        "name": "Dr Mundo",
         "role": [
-            ""
+            "top", "jg"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Frozen_Prince_Mundo_profileicon.png/revision/latest?cb=20181119221504"
     },
     
     {
-        "name": "",
+        "name": "Viego",
         "role": [
-            ""
+            "jg", "mid", "top"
         ],
-        "icon": ""
+        "icon": "https://64.media.tumblr.com/3e6a1ef97ff6259606568a48fa395469/51e90c2e1515ad85-d9/s1280x1920/db8c544560d387c0e2b53f71841977e922bd8997.jpg"
     },
     
     {
-        "name": "",
+        "name": "Rammus",
         "role": [
-            ""
+            "jg"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Tencent_Rammus_profileicon.png/revision/latest?cb=20180715014856"
     },
     
     {
-        "name": "",
+        "name": "Braum",
         "role": [
-            ""
+            "sup"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Sugar_Rush_Braum_Border_profileicon.png/revision/latest?cb=20191127070539"
     },
     
     {
-        "name": "",
+        "name": "Azir",
         "role": [
-            ""
+            "mid"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Jade_Emperor_profileicon.png/revision/latest/scale-to-width-down/250?cb=20170504192819"
     },
     
     {
-        "name": "",
+        "name": "Amumu",
         "role": [
-            ""
+            "jg"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Re-Gifted_Amumu_profileicon.png/revision/latest?cb=20170505020528"
     },
     
     {
-        "name": "",
+        "name": "Blitzcrank",
         "role": [
-            ""
+            "sup"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Claw_Machine_Blitzcrank_profileicon.png/revision/latest?cb=20190827203958"
     },
     
     {
-        "name": "",
+        "name": "Cho'Gath",
         "role": [
-            ""
+            "top", "mid"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Dark_Star_Cho%27Gath_profileicon.png/revision/latest?cb=20180617163153"
     },
     
     {
-        "name": "",
+        "name": "Diana",
         "role": [
-            ""
+            "jg", "mid"
         ],
-        "icon": ""
+        "icon": "https://i.redd.it/ulitet3cfan41.png"
     },
     
     {
-        "name": "",
+        "name": "Elise",
         "role": [
-            ""
+            "jg"
         ],
-        "icon": ""
+        "icon": "https://www.mobafire.com/images/avatars/elise-classic.png"
     },
     
     {
-        "name": "",
+        "name": "Fiddlesticks",
         "role": [
-            ""
+            "jg"
         ],
-        "icon": ""
+        "icon": "https://www.gamereplays.org/community/uploads/post-92659-1271705741.png"
     },
     
     {
-        "name": "",
+        "name": "Fiora",
         "role": [
-            ""
+            "top"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fa/Heartpiercer_Fiora_profileicon.png/revision/latest?cb=20190109043920"
     },
     
     {
-        "name": "",
+        "name": "Fizz",
         "role": [
-            ""
+            "mid"
         ],
-        "icon": ""
+        "icon": "https://b.thumbs.redditmedia.com/vpXZHogYKd9BgH8ClPavhwE1akPsi-EsiuGOumagE6c.png"
     },
     
     {
-        "name": "",
+        "name": "Galio",
         "role": [
-            ""
+            "mid", "sup"
         ],
-        "icon": ""
+        "icon": "https://www.mobafire.com/images/avatars/galio-birdio.png"
     },
     
     {
-        "name": "",
+        "name": "Gragas",
         "role": [
-            ""
+            "jg", "top"
         ],
-        "icon": ""
+        "icon": "https://external-preview.redd.it/Mm_G4b_qLdbijpA2sGlNpMpnwWtAFyPCEhVjZmO1c6o.jpg?auto=webp&s=fcfdbe4ec954e55a8e907de759507bca2b84dde3"
     },
     
     {
-        "name": "",
+        "name": "Gwen",
         "role": [
-            ""
+            "top", "mid", "jg"
         ],
-        "icon": ""
+        "icon": "https://www.mobafire.com/images/avatars/gwen-space-groove.png"
     },
     
     {
-        "name": "",
+        "name": "Hecarim",
         "role": [
-            ""
+            "jg"
         ],
-        "icon": ""
+        "icon": "https://www.mobafire.com/images/avatars/hecarim-classic.png"
     },
     
     {
-        "name": "",
+        "name": "Janna",
         "role": [
-            ""
+            "sup"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e4/Sacred_Sword_Janna_profileicon.png/revision/latest?cb=20170915210018"
     },
     
     {
-        "name": "",
+        "name": "Jarvan IV",
         "role": [
             ""
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/SSG_Jarvan_IV_profileicon.png/revision/latest?cb=20180630044352"
     },
     
     {
-        "name": "",
+        "name": "Jax",
         "role": [
-            ""
+            "top", "jg"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Jax_Poro_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20160209211533"
     },
     
     {
-        "name": "",
+        "name": "Jayce",
         "role": [
-            ""
+            "top", "mid"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Battle_Academia_Jayce_profileicon.png/revision/latest?cb=20190501202640"
     },
     
     {
-        "name": "",
+        "name": "Kai'sa",
         "role": [
-            ""
+            "bot"
         ],
-        "icon": ""
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a2/KDA_Kai%27Sa_profileicon.png/revision/latest?cb=20181009220537"
     },
     
     {
-        "name": "",
+        "name": "Kalista",
         "role": [
-            ""
+            "bot"
         ],
-        "icon": ""
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoX0ExXe29fSQwb-6UJmG3L-sgNZZqnM5z8w&usqp=CAU"
     },
     
     {
-        "name": "",
+        "name": "Karma",
         "role": [
-            ""
+            "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Dawnbringer_Karma_Border_profileicon.png/revision/latest?cb=20191127071423"
+    },
+    
+    {
+        "name": "Karthus",
+        "role": [
+            "jg", "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Pentakill_Karthus_profileicon.png/revision/latest?cb=20170728190547"
+    },
+    
+    {
+        "name": "Kassadin",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://external-preview.redd.it/K7kgJJoMDnZ12UckcpAExt3EZY307CWHNDkdU-0uelc.jpg?auto=webp&s=409b77562cb6c2b961ccbc53aaf5968a975c7f7a"
+    },
+    
+    {
+        "name": "Kayn",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://64.media.tumblr.com/ea64248e8e8bf547fb63a65cf892068b/285e40aaf52288a4-a2/s400x600/c5d3bf1c40f4da983d90b210b1c3dbe38a401937.jpg"
+    },
+    
+    {
+        "name": "Kindred",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Spirit_Blossom_Kindred_Chroma_profileicon.png/revision/latest?cb=20200721203038"
+    },
+    
+    {
+        "name": "Kog'Maw",
+        "role": [
+            "bot"
+        ],
+        "icon": "https://64.media.tumblr.com/0fc0e39cdc22fc4b01968e80219a7cc9/337a21125ea7d572-8d/s2048x3072/a8f651a19080fa46ceaf90e9e9e1d215b92ac00c.jpg"
+    },
+    
+    {
+        "name": "Leona",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Solar_Eclipse_Leona_profileicon.png/revision/latest?cb=20181106231204"
+    },
+    
+    {
+        "name": "Lillia",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/01/Spirit_Blossom_Lillia_profileicon.png/revision/latest?cb=20200707232113"
+    },
+    
+    {
+        "name": "Senna",
+        "role": [
+            "sup", "bot"
+        ],
+        "icon": "https://64.media.tumblr.com/0bb4a7be472ce9e8b64bd0540c14f894/14cb700129e226fb-ac/s250x400/a45cb06b8edbb65f054cdb6e3936a058f58243cd.jpg"
+    },
+    
+    {
+        "name": "Lucian",
+        "role": [
+            "bot", "mid", "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1d/Demacia_Vice_Lucian_Chroma_profileicon.png/revision/latest?cb=20190701221336"
+    },
+    
+    {
+        "name": "Malphite",
+        "role": [
+            "top", "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Odyssey_Malphite_profileicon.png/revision/latest?cb=20180911214201"
+    },
+    
+    {
+        "name": "Malzahar",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Battle_Boss_Malzahar_profileicon.png/revision/latest?cb=20170726002152"
+    },
+    
+    {
+        "name": "Nami",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Koi_Nami_profileicon.png/revision/latest?cb=20170505010201"
+    },
+    
+    {
+        "name": "Olaf",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d5/Tencent_Olaf_profileicon.png/revision/latest?cb=20180715015512"
+    },
+    
+    {
+        "name": "Orianna",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://64.media.tumblr.com/934bbaa9eeaa3aad401cccdd11bb5253/625f4d2313779825-12/s640x960/c6a353c4b1284a7963e409c1b5e16e8c769cb283.jpg"
+    },
+    
+    {
+        "name": "Qiyana",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://i.redd.it/cwcd8mlxblv31.png"
+    },
+    
+    {
+        "name": "Quinn",
+        "role": [
+            "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Heartseeker_Quinn_profileicon.png/revision/latest?cb=20170504194324"
+    },
+    
+    {
+        "name": "Xerath",
+        "role": [
+            "mid", "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/Dark_Star_Xerath_Border_profileicon.png/revision/latest/scale-to-width-down/250?cb=20200304103246"
+    },
+    
+    {
+        "name": "Rell",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://preview.redd.it/1ql53jbns0461.jpg?width=300&format=pjpg&auto=webp&s=024e719f4d1cfc9b0e4c114fe7961adbafc34e02"
+    },
+    
+    {
+        "name": "Ryze",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/93/Championship_Ryze_Border_profileicon.png/revision/latest?cb=20190910232205"
+    },
+    
+    {
+        "name": "Samira",
+        "role": [
+            "bot"
+        ],
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDDiGB3y9P8zLjQfI7Ko__vxQ2dbDHH_U9_gNISi6Z0W8FqQz5COuiN8Y0uWVp8eyBpk&usqp=CAU"
+    },
+    
+    {
+        "name": "Seraphine",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://64.media.tumblr.com/05011a35a93aa5391b1a58e6c37bfec5/9e1a7a2848b07549-88/s500x750/08faa743769badc331667c8bd8941e3023e5b2fa.png"
+    },
+    
+    {
+        "name": "Shaco",
+        "role": [
+            "jg", "sup"
+        ],
+        "icon": "https://64.media.tumblr.com/f62d02668d82ad2f990d199792f50281/tumblr_nk19oc4WlJ1s5qva6o1_1280.png"
+    },
+    
+    {
+        "name": "Shyvana",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://www.mobafire.com/images/avatars/shyvana-ruined.png"
+    },
+    
+    {
+        "name": "Singed",
+        "role": [
+            "top"
         ],
         "icon": ""
+    },
+
+    {
+        "name": "Sivir",
+        "role": [
+            "bot"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Pizza_Delivery_Sivir_profileicon.png/revision/latest?cb=20180617164003"
+    },
+    
+    {
+        "name": "Soraka",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Dawnbringer_Soraka_profileicon.png/revision/latest?cb=20191127070039"
+    },
+    
+    {
+        "name": "Sylas",
+        "role": [
+            "mid", "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Lunar_Wraith_Sylas_profileicon.png/revision/latest?cb=20190109043321"
+    },
+    
+    {
+        "name": "Syndra",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://i.redd.it/e132qgksnrv61.jpg"
+    },
+    
+    {
+        "name": "Taliyah",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/SSG_Taliyah_profileicon.png/revision/latest?cb=20180630044255"
+    },
+    
+    {
+        "name": "Thresh",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://i.ytimg.com/vi/vB3zzdxGt5Y/maxresdefault.jpg"
+    },
+    
+    {
+        "name": "Trundle",
+        "role": [
+            "jg", "top"
+        ],
+        "icon": "https://i.pinimg.com/originals/f0/cd/c2/f0cdc2879f51256e8539dd540ce841ea.png"
+    },
+    
+    {
+        "name": "Tryndamere",
+        "role": [
+            "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Tencent_Tryndamere_profileicon.png/revision/latest?cb=20180715014843"
+    },
+    
+    {
+        "name": "Udyr",
+        "role": [
+            "jg"
+        ],
+        "icon": "https://i.imgur.com/OqFxN4P.jpg"
+    },
+    
+    {
+        "name": "Varus",
+        "role": [
+            "bot"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Conqueror_Varus_profileicon.png/revision/latest?cb=20180617162433"
+    },
+    
+    {
+        "name": "Viktor",
+        "role": [
+            "mid"
+        ],
+        "icon": "https://i.redd.it/ztyw50b44hy51.jpg"
+    },
+    
+    {
+        "name": "Volibear",
+        "role": [
+            "top", "jg"
+        ],
+        "icon": "https://external-preview.redd.it/3eARXQ8BFEPNKWr6ahfl3k6WPth6bPz3KBNyfPDSjZ4.jpg?auto=webp&s=1d4d9c5af54049d38e159e62048cd9a32bf787b1"
+    },
+    
+    {
+        "name": "Warwick",
+        "role": [
+            "jg", "top"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/21/Lunar_Guardian_Warwick_profileicon.png/revision/latest?cb=20180617162651"
+    },
+    
+    {
+        "name": "Yorick",
+        "role": [
+            "top"
+        ],
+        "icon": "https://i.pinimg.com/236x/0d/d2/af/0dd2afd18a5f95b9781dca11d5f875ec.jpg"
+    },
+    
+    {
+        "name": "Zilean",
+        "role": [
+            "sup", "mid"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c2/Sugar_Rush_Zilean_Border_profileicon.png/revision/latest?cb=20191127070356"
+    },
+    
+    {
+        "name": "Zyra",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3420863c-b3a3-42d3-a755-d4501d2a4cbb/db9sa5f-50fc539b-e4ef-42e8-bfc2-050dbd53272a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0MjA4NjNjLWIzYTMtNDJkMy1hNzU1LWQ0NTAxZDJhNGNiYlwvZGI5c2E1Zi01MGZjNTM5Yi1lNGVmLTQyZTgtYmZjMi0wNTBkYmQ1MzI3MmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XZmVeyCjAJQo5JTjNde1XiZxlPNfP9Q4YMGsyZN_LrE"
     }
-    
-    
-    
-    
 ]
