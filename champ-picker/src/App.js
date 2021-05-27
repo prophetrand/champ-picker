@@ -16,27 +16,22 @@ function App() {
   allChamps.forEach(champ => {
     if (champ.role.includes("top")) {
       topChamps.push(champ);
-      console.log("Success! Planted:", champ.name);
     }
 
     if (champ.role.includes("jg")) {
       jgChamps.push(champ);
-      console.log("Success! Planted:", champ.name);
     }
 
     if (champ.role.includes("mid")) {
       midChamps.push(champ);
-      console.log("Success! Planted:", champ.name);
     }
 
     if (champ.role.includes("bot")) {
       botChamps.push(champ);
-      console.log("Success! Planted:", champ.name);
     }
 
     if (champ.role.includes("sup")) {
       supChamps.push(champ);
-      console.log("Success! Planted:", champ.name);
     }
   });
 
@@ -62,7 +57,15 @@ function App() {
       <header>
         Boglobob
       </header>
-      <Settings />
+      <Settings
+        allChamps={allChamps}
+        topChamps={topChamps}
+        jgChamps={jgChamps}
+        midChamps={midChamps}
+        botChamps={botChamps}
+        supChamps={supChamps}
+      />
+
       {allChamps.map((e) => (
         <div>
           <img src={champies[e.icon].default} alt={e.name + " icon"} />
