@@ -1,34 +1,10 @@
 [
     {
-        "name": "Annie",
-        "role": [
-            "mid"
-        ],
-        "icon": "Annie_12.jpg"
-    },
-
-    {
-        "name": "Alistar",
-        "role": [
-            "sup"
-        ],
-        "icon": "Alistar_10.jpg"
-    },
-
-    {
         "name": "Aatrox",
         "role": [
             "top", "mid"
         ],
         "icon": "Aatrox_7.jpg"
-    },
-    
-    {
-        "name": "Akali",
-        "role": [
-            "mid", "top"
-        ],
-        "icon": "Akali_14.jpg"
     },
     
     {
@@ -40,6 +16,54 @@
     },
 
     {
+        "name": "Akali",
+        "role": [
+            "mid", "top"
+        ],
+        "icon": "Akali_14.jpg"
+    },
+
+    {
+        "name": "Alistar",
+        "role": [
+            "sup"
+        ],
+        "icon": "Alistar_10.jpg"
+    },
+
+    {
+        "name": "Amumu",
+        "role": [
+            "jg"
+        ],
+        "icon": "Amumu_8.jpg"
+    },
+
+    {
+        "name": "Anivia",
+        "role": [
+            "mid"
+        ],
+        "icon": "Anivia_5.jpg"
+    },
+
+    {
+        "name": "Annie",
+        "role": [
+            "mid"
+        ],
+        "icon": "Annie_12.jpg"
+    },
+
+    {
+        "name": "Aphelios",
+        "role": [
+            "bot"
+        ],
+        "icon": "Aphelios_1.jpg"
+    },
+
+    {
         "name": "Ashe",
         "role": [
             "bot"
@@ -48,11 +72,51 @@
     },
     
     {
+        "name": "Aurelion Sol",
+        "role": [
+            "mid"
+        ],
+        "icon": "AurelionSol_11.jpg"
+    },
+
+    {
+        "name": "Azir",
+        "role": [
+            "mid"
+        ],
+        "icon": "Azir_4.jpg"
+    },
+
+    {
         "name": "Bard",
         "role": [
             "sup"
         ],
         "icon": "Bard_6.jpg"
+    },
+
+    {
+        "name": "Blitzcrank",
+        "role": [
+            "sup"
+        ],
+        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Claw_Machine_Blitzcrank_profileicon.png/revision/latest?cb=20190827203958"
+    },
+
+    {
+        "name": "Brand",
+        "role": [
+            "sup", "mid"
+        ],
+        "icon": "Brand_6.jpg"
+    },
+
+    {
+        "name": "Braum",
+        "role": [
+            "sup"
+        ],
+        "icon": "Braum_10.jpg"
     },
 
     {
@@ -78,6 +142,14 @@
         ],
         "icon": "Cassiopeia_8.jpg"
     },
+    
+    {
+        "name": "Cho'Gath",
+        "role": [
+            "top", "mid"
+        ],
+        "icon": "Chogath_7.jpg"
+    },
 
     {
         "name": "Corki",
@@ -96,6 +168,14 @@
     },
     
     {
+        "name": "Diana",
+        "role": [
+            "jg", "mid"
+        ],
+        "icon": "Diana_18.jpg"
+    },
+
+    {
         "name": "Draven",
         "role": [
             "bot"
@@ -104,11 +184,27 @@
     },
     
     {
+        "name": "Dr Mundo",
+        "role": [
+            "top", "jg"
+        ],
+        "icon": "DrMundo_8.jpg"
+    },
+    
+    {
         "name": "Ekko",
         "role": [
             "mid", "top", "jg"
         ],
         "icon": "Ekko_28.jpg"
+    },
+    
+    {
+        "name": "Elise",
+        "role": [
+            "jg"
+        ],
+        "icon": "Elise_3.jpg"
     },
     
     {
@@ -172,7 +268,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Champie_Illaoi_profileicon.png/revision/latest?cb=20190515110345"
+        "icon": "Illaoi_10.jpg"
     },
     
     {
@@ -180,7 +276,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d3/Champie_Irelia_profileicon.png/revision/latest?cb=20190515110411"
+        "icon": "Irelia_5.jpg"
     },
     
     {
@@ -188,7 +284,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7c/Champie_Jhin_profileicon.png/revision/latest?cb=20200417030316"
+        "icon": "Jhin_14.jpg"
     },
     
     {
@@ -196,7 +292,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b5/Champie_Jinx_profileicon.png/revision/latest?cb=20191105212008"
+        "icon": "Jinx_4.jpg"
     },
     
     {
@@ -204,7 +300,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Champie_Katarina_profileicon.png/revision/latest?cb=20171024220453"
+        "icon": "Katarina_10.jpg"
     },
     
     {
@@ -212,7 +308,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Champie_Kayle_profileicon.png/revision/latest?cb=20181023205633"
+        "icon": "Kayle_6.jpg"
     },
     
     {
@@ -220,7 +316,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Champie_Kennen_profileicon.png/revision/latest?cb=20200417030316"
+        "icon": "Kennen_23.jpg"
     },
     
     {
@@ -228,7 +324,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/87/Champie_Kled_profileicon.png/revision/latest?cb=20200417030317"
+        "icon": "Kled_1.jpg"
     },
     
     {
@@ -236,7 +332,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Champie_LeBlanc_profileicon.png/revision/latest?cb=20180617162359"
+        "icon": "Leblanc_20.jpg"
     },
 
     {
@@ -244,7 +340,7 @@
         "role": [
             "jg", "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Champie_Lee_Sin_profileicon.png/revision/latest?cb=20190515110435"
+        "icon": "LeeSin_11.jpg"
     },
     
     {
@@ -252,7 +348,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Champie_Lissandra_profileicon.png/revision/latest?cb=20191105212031"
+        "icon": "Lissandra_4.jpg"
     },
 
     {
@@ -260,7 +356,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Champie_Lulu_profileicon.png/revision/latest?cb=20200417030317"
+        "icon": "Lulu_5.jpg"
     },
     
     {
@@ -268,7 +364,7 @@
         "role": [
             "mid", "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Champie_Lux_profileicon.png/revision/latest?cb=20171024220546"
+        "icon": "Lux_7.jpg"
     },
     
     {
@@ -276,7 +372,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Champie_Master_Yi_profileicon.png/revision/latest?cb=20181023205859"
+        "icon": "MasterYi_9.jpg"
     },
     
     {
@@ -284,7 +380,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4a/Champie_Miss_Fortune_profileicon.png/revision/latest?cb=20171024220657"
+        "icon": "MissFortune_16.jpg"
     },
     
     {
@@ -292,7 +388,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Champie_Mordekaiser_profileicon.png/revision/latest?cb=20200417030319"
+        "icon": "Mordekaiser_5.jpg"
     },
     
     {
@@ -300,7 +396,7 @@
         "role": [
             "sup", "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Champie_Morgana_profileicon.png/revision/latest?cb=20171024220527"
+        "icon": "Morgana_6.jpg"
     },
     
     {
@@ -308,7 +404,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Champie_Nasus_profileicon.png/revision/latest?cb=20180617163127"
+        "icon": "Nasus_16.jpg"
     },
     
     {
@@ -316,7 +412,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6b/Champie_Nautilus_profileicon.png/revision/latest?cb=20190515110500"
+        "icon": "Nautilus_5.jpg"
     },
     
     {
@@ -324,7 +420,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Champie_Neeko_profileicon.png/revision/latest?cb=20191105211859"
+        "icon": "Neeko_12.jpg"
     },
     
     {
@@ -332,7 +428,7 @@
         "role": [
             "jg", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b1/Champie_Nunu_%26_Willump_profileicon.png/revision/latest?cb=20191105212251"
+        "icon": "Nunu_3.jpg"
     },
 
     {
@@ -340,7 +436,7 @@
         "role": [
             "top", "jg", "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Champie_Poppy_profileicon.png/revision/latest?cb=20200417030319"
+        "icon": "Poppy_7.jpg"
     },
     
     {
@@ -348,7 +444,7 @@
         "role": [
             "sup", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9d/Champie_Pyke_profileicon.png/revision/latest?cb=20190515110529"
+        "icon": "Pyke_9.jpg"
     },
 
     {
@@ -356,7 +452,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ed/Champie_Rakan_profileicon.png/revision/latest?cb=20200417030318"
+        "icon": "Rakan_9.jpg"
     },
     
     {
@@ -364,7 +460,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Champie_Riven_profileicon.png/revision/latest?cb=20190515110555"
+        "icon": "Riven_23.jpg"
     },
     
     {
@@ -372,7 +468,7 @@
         "role": [
             "jg", "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Champie_Rumble_profileicon.png/revision/latest?cb=20200417030828"
+        "icon": "Rumble_3.jpg"
     },
     
     {
@@ -380,7 +476,7 @@
         "role": [
             "jg", "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Champie_Sejuani_profileicon.png/revision/latest?cb=20191105212500"
+        "icon": "Sejuani_8.jpg"
     },
     
     {
@@ -388,7 +484,7 @@
         "role": [
             "top", "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e2/Champie_Shen_profileicon.png/revision/latest?cb=20181023205237"
+        "icon": "Shen_1.jpg"
     },
     
     {
@@ -396,7 +492,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Champie_Sion_profileicon.png/revision/latest?cb=20190515110619"
+        "icon": "Sion_22.jpg"
     },
     
     {
@@ -404,7 +500,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Champie_Sona_profileicon.png/revision/latest?cb=20181023205928"
+        "icon": "Sona_5.jpg"
     },
     
     {
@@ -412,7 +508,7 @@
         "role": [
             "sup", "bot", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Champie_Swain_profileicon.png/revision/latest?cb=20190515110644"
+        "icon": "Swain_4.jpg"
     },
     
     {
@@ -420,7 +516,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dc/Champie_Tahm_Kench_profileicon.png/revision/latest?cb=20190515110711"
+        "icon": "TahmKench_3.jpg"
     },
     
     {
@@ -428,7 +524,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Champie_Talon_profileicon.png/revision/latest?cb=20200417030828"
+        "icon": "Talon_29.jpg"
     },
 
     {
@@ -436,7 +532,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Champie_Taric_profileicon.png/revision/latest?cb=20171024220741"
+        "icon": "Taric_4.jpg"
     },
     
     {
@@ -444,7 +540,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Champie_Teemo_profileicon.png/revision/latest?cb=20200417030829"
+        "icon": "Teemo_14.jpg"
     },
 
     {
@@ -452,7 +548,7 @@
         "role": [
             "bot", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Champie_Tristana_profileicon.png/revision/latest?cb=20200417030830"
+        "icon": "Tristana_24.jpg"
     },
     
     {
@@ -460,7 +556,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Champie_Twisted_Fate_profileicon.png/revision/latest?cb=20171024220619"
+        "icon": "TwistedFate_13.jpg"
     },
     
     {
@@ -468,7 +564,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fe/Champie_Twitch_profileicon.png/revision/latest?cb=20180617163536"
+        "icon": "Twitch_27.jpg"
     },
     
     {
@@ -476,7 +572,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Champie_Urgot_profileicon.png/revision/latest?cb=20191105212440"
+        "icon": "Urgot_15.jpg"
     },
     
     {
@@ -484,7 +580,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Champie_Vayne_profileicon.png/revision/latest?cb=20180617162723"
+        "icon": "Vayne_12.jpg"
     },
     
     {
@@ -492,7 +588,7 @@
         "role": [
             "mid", "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Champie_Veigar_profileicon.png/revision/latest?cb=20200417030830"
+        "icon": "Veigar_13.jpg"
     },
     
     {
@@ -500,7 +596,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Champie_Vi_profileicon.png/revision/latest?cb=20191105211918"
+        "icon": "Vi_11.jpg"
     },
     
     {
@@ -508,7 +604,7 @@
         "role": [
             "mid", "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Champie_Vladimir_profileicon.png/revision/latest?cb=20181023205550"
+        "icon": "Vladimir_5.jpg"
     },
     
     {
@@ -516,7 +612,7 @@
         "role": [
             "top", "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/a/aa/Champie_Wukong_profileicon.png/revision/latest?cb=20171024220605"
+        "icon": "MonkeyKing_5.jpg"
     },
     
     {
@@ -524,7 +620,7 @@
         "role": [
             "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Champie_Xayah_profileicon.png/revision/latest?cb=20200417030831"
+        "icon": "Xayah_8.jpg"
     },
 
     {
@@ -532,7 +628,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Champie_Xin_Zhao_profileicon.png/revision/latest?cb=20180617161723"
+        "icon": "XinZhao_13.jpg"
     },
     
     {
@@ -540,7 +636,7 @@
         "role": [
             "mid", "top", "bot"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b0/Champie_Yasuo_profileicon.png/revision/latest?cb=20190515110740"
+        "icon": "Yasuo_36.jpg"
     },
 
     {
@@ -548,7 +644,7 @@
         "role": [
             "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a8/Champie_Yuumi_profileicon.png/revision/latest?cb=20200417030831"
+        "icon": "Yuumi_1.jpg"
     },
     
     {
@@ -556,7 +652,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b6/Champie_Ziggs_profileicon.png/revision/latest?cb=20191105211941"
+        "icon": "Ziggs_5.jpg"
     },
     
     {
@@ -564,7 +660,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Champie_Zoe_profileicon.png/revision/latest?cb=20200417030832"
+        "icon": "Zoe_18.jpg"
     },
     
     {
@@ -572,7 +668,7 @@
         "role": [
             "mid", "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Spirit_Bonds_Yone_profileicon.png/revision/latest?cb=20200724204826"
+        "icon": "Yone_1.jpg"
     },
     
     {
@@ -580,7 +676,7 @@
         "role": [
             "jg", "top", "sup"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/25/Space_Food_Zac_profileicon.png/revision/latest?cb=20180617163715"
+        "icon": "Zac_7.jpg"
     },
     
     {
@@ -588,7 +684,7 @@
         "role": [
             "sup", "top"
         ],
-        "icon": "https://esportspedia-lol.s3.amazonaws.com/6/64/MaokaiSquare.png"
+        "icon": "Maokai_6.jpg"
     },
     
     {
@@ -596,7 +692,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://1.bp.blogspot.com/-JrCYNnjSEnA/X71it7grwgI/AAAAAAAByHg/0PxSOBegbzU9ogzAEthCLWCFtpHWye-KQCLcBGAsYHQ/s300/4844.jpg"
+        "icon": "Ivern_1.jpg"
     },
     
     {
@@ -604,15 +700,7 @@
         "role": [
             "top", "sup", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Obsidian_Dragon_Sett_profileicon.png/revision/latest?cb=20200920103259"
-    },
-    
-    {
-        "name": "Brand",
-        "role": [
-            "sup", "mid"
-        ],
-        "icon": "https://www.mobafire.com/images/avatars/summoner-icon-harrowing-burning-hunger-brand.png"
+        "icon": "Sett_9.jpg"
     },
     
     {
@@ -620,7 +708,7 @@
         "role": [
             "top"
         ],
-        "icon": "https://1.bp.blogspot.com/-U1pwiNYVX24/X71iuyx0gWI/AAAAAAAByHo/LmZjnwInJpYuI54XFafooDFtQeU2VoIdACLcBGAsYHQ/s300/4846.jpg"
+        "icon": "Ornn_2.jpg"
     },
     
     {
@@ -628,7 +716,7 @@
         "role": [
             "top", "mid"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Tencent_Renekton_profileicon.png/revision/latest?cb=20180715015610"
+        "icon": "Renekton_4.jpg"
     },
     
     {
@@ -636,7 +724,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Challenger_Nidalee_profileicon.png/revision/latest?cb=20190405042117"
+        "icon": "Nidalee_6.jpg"
     },
     
     {
@@ -644,7 +732,7 @@
         "role": [
             "jg", "mid", "top"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d7/Elderwood_Nocturne_profileicon.png/revision/latest?cb=20190821011408"
+        "icon": "Nocturne_7.jpg"
     },
     
     {
@@ -652,7 +740,7 @@
         "role": [
             "mid", "top", "jg", "sup"
         ],
-        "icon": "https://i.redd.it/kgyq8s4oecq31.jpg"
+        "icon": "Pantheon_8.jpg"
     },
     
     {
@@ -660,7 +748,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://esportspedia-lol.s3.amazonaws.com/3/3e/Rek%27SaiSquare.png"
+        "icon": "RekSai_9.jpg"
     },
     
     {
@@ -668,23 +756,15 @@
         "role": [
             "top", "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8e/Pretty_Kitty_Rengar_profileicon.png/revision/latest?cb=20190305235546"
+        "icon": "Rengar_15.jpg"
     },
     
     {
-        "name": "Kha'zix",
+        "name": "Kha'Zix",
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/13/Championship_Kha%27Zix_profileicon.png/revision/latest?cb=20180913225708"
-    },
-    
-    {
-        "name": "Aurelion Sol",
-        "role": [
-            "mid"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Aurelion_Smol_profileicon.png/revision/latest?cb=20180731212107"
+        "icon": "Khazix_3.jpg"
     },
     
     {
@@ -692,15 +772,7 @@
         "role": [
             "mid"
         ],
-        "icon": "https://i.redd.it/iiyq7332zd811.png"
-    },
-    
-    {
-        "name": "Dr Mundo",
-        "role": [
-            "top", "jg"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Frozen_Prince_Mundo_profileicon.png/revision/latest?cb=20181119221504"
+        "icon": "Zed_10.jpg"
     },
     
     {
@@ -708,7 +780,7 @@
         "role": [
             "jg", "mid", "top"
         ],
-        "icon": "https://64.media.tumblr.com/3e6a1ef97ff6259606568a48fa395469/51e90c2e1515ad85-d9/s1280x1920/db8c544560d387c0e2b53f71841977e922bd8997.jpg"
+        "icon": "Viego_1.jpg"
     },
     
     {
@@ -716,63 +788,7 @@
         "role": [
             "jg"
         ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Tencent_Rammus_profileicon.png/revision/latest?cb=20180715014856"
-    },
-    
-    {
-        "name": "Braum",
-        "role": [
-            "sup"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/4/47/Sugar_Rush_Braum_Border_profileicon.png/revision/latest?cb=20191127070539"
-    },
-    
-    {
-        "name": "Azir",
-        "role": [
-            "mid"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Jade_Emperor_profileicon.png/revision/latest/scale-to-width-down/250?cb=20170504192819"
-    },
-    
-    {
-        "name": "Amumu",
-        "role": [
-            "jg"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Re-Gifted_Amumu_profileicon.png/revision/latest?cb=20170505020528"
-    },
-    
-    {
-        "name": "Blitzcrank",
-        "role": [
-            "sup"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Claw_Machine_Blitzcrank_profileicon.png/revision/latest?cb=20190827203958"
-    },
-    
-    {
-        "name": "Cho'Gath",
-        "role": [
-            "top", "mid"
-        ],
-        "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Dark_Star_Cho%27Gath_profileicon.png/revision/latest?cb=20180617163153"
-    },
-    
-    {
-        "name": "Diana",
-        "role": [
-            "jg", "mid"
-        ],
-        "icon": "https://i.redd.it/ulitet3cfan41.png"
-    },
-    
-    {
-        "name": "Elise",
-        "role": [
-            "jg"
-        ],
-        "icon": "https://www.mobafire.com/images/avatars/elise-classic.png"
+        "icon": "Rammus_1.jpg"
     },
     
     {

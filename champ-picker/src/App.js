@@ -32,7 +32,7 @@ function App() {
 
       {allChamps.map((e) => (
         <div>
-          <img src={champies[allChamps[9].icon].default} alt={e.name + " icon"} />
+          <img src={champies[allChamps[15].icon].default} alt={e.name + " icon"} />
           <h2>{e.name}</h2>
         </div>
       ))}
