@@ -1,45 +1,60 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import allChamps from "./champs.json";
 import Settings from "./components/Settings";
 
 function App() {
+  const [topChamps, setTop] = useState([]);
+  const [jgChamps, setJg] = useState([]);
+  const [midChamps, setMid] = useState([]);
+  const [botChamps, setBot] = useState([]);
+  const [supChamps, setSup] = useState([]);
 
-  console.log(allChamps[0]);
+  let topLoad = [];
+  let jgLoad = [];
+  let midLoad = [];
+  let botLoad = [];
+  let supLoad = [];
 
-  var topChamps = [];
-  var jgChamps = [];
-  var midChamps = [];
-  var botChamps = [];
-  var supChamps = [];
+  function loadChamps() {
 
-  // Callback function in forEach checks allChamps (champs.json) for every champ's roles and sorts each champ object into the appropriate array to be passed as props.
-  allChamps.forEach(champ => {
-    if (champ.role.includes("top")) {
-      topChamps.push(champ);
-    }
+    // Callback function in forEach checks allChamps (champs.json) for every champ's roles and sorts each champ object into the appropriate array to be passed as props.
+    allChamps.forEach(champ => {
+      if (champ.role.includes("top")) {
+        topLoad.push(champ);
+      }
 
-    if (champ.role.includes("jg")) {
-      jgChamps.push(champ);
-    }
+      if (champ.role.includes("jg")) {
+        jgLoad.push(champ);
+      }
 
-    if (champ.role.includes("mid")) {
-      midChamps.push(champ);
-    }
+      if (champ.role.includes("mid")) {
+        midLoad.push(champ);
+      }
 
-    if (champ.role.includes("bot")) {
-      botChamps.push(champ);
-    }
+      if (champ.role.includes("bot")) {
+        botLoad.push(champ);
+      }
 
-    if (champ.role.includes("sup")) {
-      supChamps.push(champ);
-    }
-  });
+      if (champ.role.includes("sup")) {
+        supLoad.push(champ);
+      }
+    });
+    console.log("Top champs in the bucket:", topLoad);
+    console.log("Jg champs in the bucket:", jgLoad);
+    console.log("Mid champs in the bucket:", midLoad);
+    console.log("Bot champs in the bucket:", botLoad);
+    console.log("Sup champs in the bucket:", supLoad)
 
-  console.log("Top champs in the bucket:", topChamps);
-  console.log("Jg champs in the bucket:", jgChamps);
-  console.log("Mid champs in the bucket:", midChamps);
-  console.log("Bot champs in the bucket:", botChamps);
-  console.log("Sup champs in the bucket:", supChamps)
+    setTop(topLoad);
+    setJg(jgLoad);
+    setMid(midLoad);
+    setBot(botLoad);
+    setSup(supLoad);
+  }
+
+  useEffect(() => {
+    loadChamps();
+  }, []);
 
   // Function to import all images from ./champies/ directory for use in the webapp. Could move this import to other components, could improve performance.
   const importAll = require =>
@@ -58,6 +73,7 @@ function App() {
         Boglobob
       </header>
       <Settings
+        champies={champies}
         allChamps={allChamps}
         topChamps={topChamps}
         jgChamps={jgChamps}
@@ -66,12 +82,12 @@ function App() {
         supChamps={supChamps}
       />
 
-      {allChamps.map((e) => (
+      {/* {allChamps.map((e) => (
         <div>
           <img src={champies[e.icon].default} alt={e.name + " icon"} />
           <h2>{e.name}</h2>
         </div>
-      ))}
+      ))} */}
 
     </div>
   );
