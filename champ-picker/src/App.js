@@ -63,7 +63,7 @@ function App() {
       return acc;
     }, {});
 
-  // Calling importAll on the ./champies/ directory and saving the resulting object to the variable champies.
+  // Calling importAll on the ./champies/ directory and saving the resulting object to the champies array. Each object in the array represents an icon image file, one for each champ in champs.json.
   const champies = importAll(require.context('./champies', false, /\.(jpg)$/));
   console.log("Champies!!:", champies);
 
