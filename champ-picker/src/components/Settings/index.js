@@ -1,13 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Display from '../Display';
 import "./style.css";
 
 function Settings(props) {
-
+  const [champResult, setResult] = useState({});
   const randomChoice = (pool) => {
     let num = Math.floor(Math.random() * pool.length);
     console.log(num);
     console.log(pool[num]);
+    setResult(pool[num]);
   }
 
   return (
@@ -24,7 +25,10 @@ function Settings(props) {
       </div>
 
       <div>
-        <Display />
+        <Display 
+        champResult={champResult}
+        champies={props.champies}
+        />
       </div>
     </div>
 
