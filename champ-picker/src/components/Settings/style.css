@@ -1,3 +1,17 @@
+.roles {
+    padding: 0.6em 1.2em;
+    margin: 0.2em;
+    border: 0.16em solid rgba(255,0,255, 0);
+    border-radius: 1em;
+    box-sizing: border-box;
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+.roles:hover {
+    border: 0.16em solid rgba(255,255,255,1);
+}
+
 .bigBadButton {
     font-size: 30px;
     background-color: goldenrod;

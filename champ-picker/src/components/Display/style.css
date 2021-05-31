@@ -18,6 +18,8 @@ h3 {
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    background-color: plum;
-    /* padding-bottom: 10px; */
+    background-color: #ffedfb;
+    padding-bottom: 10%;
+    border: 3px solid #12050e;
+    border-radius: 8px;
 }

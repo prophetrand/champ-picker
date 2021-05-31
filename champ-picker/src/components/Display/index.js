@@ -7,9 +7,9 @@ function Display(props) {
     }
     let champResult = props.champResult;
     return (
-        <div className="display">
+        <div>
             {champResult.name
-                ? <div>
+                ? <div className="display">
                     <img className="resultIcon" src={props.champies[champResult.icon].default} alt={champResult.name + " icon"} />
                     <h3>{champResult.name}</h3>
                 </div>

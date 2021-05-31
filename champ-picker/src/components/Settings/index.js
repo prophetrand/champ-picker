@@ -42,11 +42,11 @@ function Settings(props) {
     <div>
       <div style={{textAlign: 'center'}}>
         <h2>Do you got the cojones to pick the championes?</h2>
-        <button onClick={() => randomChoice(props.topChamps)}>Random Top</button>
-        <button onClick={() => randomChoice(props.jgChamps)}>Random Jungle</button>
-        <button onClick={() => randomChoice(props.midChamps)}>Random Mid</button>
-        <button onClick={() => randomChoice(props.botChamps)}>Random Bot</button>
-        <button onClick={() => randomChoice(props.supChamps)}>Random Support</button>
+        <button className="roles" style={{backgroundColor: "#3d0608"}} onClick={() => randomChoice(props.topChamps)}>Random Top</button>
+        <button className="roles" style={{backgroundColor: "#100126"}} onClick={() => randomChoice(props.jgChamps)}>Random Jungle</button>
+        <button className="roles" style={{backgroundColor: "#010726"}} onClick={() => randomChoice(props.midChamps)}>Random Mid</button>
+        <button className="roles" style={{backgroundColor: "#012426"}} onClick={() => randomChoice(props.botChamps)}>Random Bot</button>
+        <button className="roles" style={{backgroundColor: "#2b2500"}} onClick={() => randomChoice(props.supChamps)}>Random Support</button>
         <br />
         <button className="bigBadButton" onClick={() => randomChoice(props.allChamps)}>BIG RANDOM</button>
         <button className="teamButton" onClick={() => teamChoice()}>Random Team Comp</button>
