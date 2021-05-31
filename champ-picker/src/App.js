@@ -69,9 +69,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>
-        Boglobob
-      </header>
+      
       <Settings
         champies={champies}
         allChamps={allChamps}
