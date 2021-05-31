@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import allChamps from "./champs.json";
 import Settings from "./components/Settings";
+import "./App.css";
 
 function App() {
   const [topChamps, setTop] = useState([]);
@@ -68,25 +69,25 @@ function App() {
   console.log("Champies!!:", champies);
 
   return (
-    <div className="App">
-      
-      <Settings
-        champies={champies}
-        allChamps={allChamps}
-        topChamps={topChamps}
-        jgChamps={jgChamps}
-        midChamps={midChamps}
-        botChamps={botChamps}
-        supChamps={supChamps}
-      />
+    <div>
+      <div className="App">
+        <Settings
+          champies={champies}
+          allChamps={allChamps}
+          topChamps={topChamps}
+          jgChamps={jgChamps}
+          midChamps={midChamps}
+          botChamps={botChamps}
+          supChamps={supChamps}
+        />
 
-      {/* {allChamps.map((e) => (
+        {/* {allChamps.map((e) => (
         <div>
           <img src={champies[e.icon].default} alt={e.name + " icon"} />
           <h2>{e.name}</h2>
         </div>
       ))} */}
-
+      </div>
     </div>
   );
 }

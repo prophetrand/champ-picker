@@ -23,7 +23,7 @@ function Settings(props) {
     for (let i = 0; i < 4; i++) {
       let checky = dupliChecker[i].name;
       for (let ii = i+1; ii < 5; ii++) {
-        if(checky == dupliChecker[ii].name) {
+        if(checky === dupliChecker[ii].name) {
           return teamChoice();
         }
       }
