@@ -19,6 +19,8 @@ function Settings(props) {
     const compBot = props.botChamps[(Math.floor(Math.random() * props.botChamps.length))];
     const compSup = props.supChamps[(Math.floor(Math.random() * props.supChamps.length))];
 
+
+    // Checking each role's assignment to make sure there are no duplicate results. Calls function again if a match is found.
     let dupliChecker = [compTop, compJg, compMid, compBot, compSup];
     for (let i = 0; i < 4; i++) {
       let checky = dupliChecker[i].name;
@@ -36,6 +38,8 @@ function Settings(props) {
       bot: compBot,
       sup: compSup
     });
+
+    setResult({});
   }
 
   return (
@@ -48,8 +52,8 @@ function Settings(props) {
         <button className="roles" style={{backgroundColor: "#012426"}} onClick={() => randomChoice(props.botChamps)}>Random Bot</button>
         <button className="roles" style={{backgroundColor: "#2b2500"}} onClick={() => randomChoice(props.supChamps)}>Random Support</button>
         <br />
-        <button className="bigBadButton" onClick={() => randomChoice(props.allChamps)}>BIG RANDOM</button>
-        <button className="teamButton" onClick={() => teamChoice()}>Random Team Comp</button>
+        <button className="bigBadButton roles" onClick={() => randomChoice(props.allChamps)}>BIG RANDOM</button>
+        <button className="bigBadButton roles" onClick={() => teamChoice()}>Random Team Comp</button>
       </div>
 
       <div>
