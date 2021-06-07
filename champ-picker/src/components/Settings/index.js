@@ -5,9 +5,11 @@ import "./style.css";
 function Settings(props) {
   const [champResult, setResult] = useState({});
   const [teamComp, setTeam] = useState({});
-  
-  const randomChoice = (pool) => {
+  const [chosenRole, setRole] = useState("");
+
+  const randomChoice = (pool, role) => {
     let num = Math.floor(Math.random() * pool.length);
+    setRole(role);
     setResult(pool[num]);
   }
 
@@ -46,13 +48,13 @@ function Settings(props) {
     <div>
       <div style={{textAlign: 'center'}}>
         <h2>Do you got the cojones to pick the championes?</h2>
-        <button className="roles" style={{backgroundColor: "#3d0608"}} onClick={() => randomChoice(props.topChamps)}>Random Top</button>
-        <button className="roles" style={{backgroundColor: "#100126"}} onClick={() => randomChoice(props.jgChamps)}>Random Jungle</button>
-        <button className="roles" style={{backgroundColor: "#010726"}} onClick={() => randomChoice(props.midChamps)}>Random Mid</button>
-        <button className="roles" style={{backgroundColor: "#012426"}} onClick={() => randomChoice(props.botChamps)}>Random Bot</button>
-        <button className="roles" style={{backgroundColor: "#2b2500"}} onClick={() => randomChoice(props.supChamps)}>Random Support</button>
+        <button className="roles" style={{backgroundColor: "#3d0608"}} onClick={() => randomChoice(props.topChamps, "Top")}>Random Top</button>
+        <button className="roles" style={{backgroundColor: "#100126"}} onClick={() => randomChoice(props.jgChamps, "Jungle")}>Random Jungle</button>
+        <button className="roles" style={{backgroundColor: "#010726"}} onClick={() => randomChoice(props.midChamps, "Mid")}>Random Mid</button>
+        <button className="roles" style={{backgroundColor: "#012426"}} onClick={() => randomChoice(props.botChamps, "Bot")}>Random Bot</button>
+        <button className="roles" style={{backgroundColor: "#2b2500"}} onClick={() => randomChoice(props.supChamps, "Support")}>Random Support</button>
         <br />
-        <button className="bigBadButton roles" onClick={() => randomChoice(props.allChamps)}>BIG RANDOM</button>
+        <button className="bigBadButton roles" onClick={() => randomChoice(props.allChamps, "wherever you want...")}>BIG RANDOM</button>
         <button className="bigBadButton roles" onClick={() => teamChoice()}>Random Team Comp</button>
       </div>
 
@@ -61,6 +63,7 @@ function Settings(props) {
         champResult={champResult}
         champies={props.champies}
         teamComp={teamComp}
+        role={chosenRole}
         />
       </div>
     </div>

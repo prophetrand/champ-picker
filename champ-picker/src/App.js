@@ -66,7 +66,7 @@ function App() {
 
   // Calling importAll on the ./champies/ directory and saving the resulting object to the champies array. Each object in the array represents an icon image file, one for each champ in champs.json.
   const champies = importAll(require.context('./champies', false, /\.(jpg)$/));
-  console.log("Champies!!:", champies);
+  // console.log("Champies!!:", champies);
 
   return (
     <div>
@@ -80,13 +80,6 @@ function App() {
           botChamps={botChamps}
           supChamps={supChamps}
         />
-
-        {/* {allChamps.map((e) => (
-        <div>
-          <img src={champies[e.icon].default} alt={e.name + " icon"} />
-          <h2>{e.name}</h2>
-        </div>
-      ))} */}
       </div>
     </div>
   );
