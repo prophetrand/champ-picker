@@ -16,7 +16,7 @@ function Display(props) {
                     <h3>{champResult.name}</h3>
                     <hr />
                     <p style={{fontStyle: "italic"}}>Roles: {roleDisplay}</p>
-                    <p>You're playing it: {props.role}</p>
+                    <p>You're playing it: <span style={{fontWeight: "bold"}}>{props.role}</span></p>
                 </div>
                 : ""}
         </div>

@@ -24,7 +24,8 @@ hr {
     margin-left: auto;
     margin-right: auto;
     background-color: #cca7c3;
-    padding-bottom: 10%;
+    padding: 8px;
+    padding-bottom: 5%;
     border: 3px solid #12050e;
     border-radius: 8px;
 }
