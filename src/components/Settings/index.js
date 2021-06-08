@@ -10,6 +10,7 @@ function Settings(props) {
   const randomChoice = (pool, role) => {
     let num = Math.floor(Math.random() * pool.length);
     setRole(role);
+    setTeam({});
     setResult(pool[num]);
   }
 
