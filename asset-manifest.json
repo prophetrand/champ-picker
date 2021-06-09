@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/champ-picker/static/css/main.64ff18da.chunk.css",
-    "main.js": "/champ-picker/static/js/main.ad26ace6.chunk.js",
-    "main.js.map": "/champ-picker/static/js/main.ad26ace6.chunk.js.map",
+    "main.css": "/champ-picker/static/css/main.524dceff.chunk.css",
+    "main.js": "/champ-picker/static/js/main.4918e552.chunk.js",
+    "main.js.map": "/champ-picker/static/js/main.4918e552.chunk.js.map",
     "runtime-main.js": "/champ-picker/static/js/runtime-main.8963c201.js",
     "runtime-main.js.map": "/champ-picker/static/js/runtime-main.8963c201.js.map",
     "static/js/2.3d478080.chunk.js": "/champ-picker/static/js/2.3d478080.chunk.js",
     "static/js/2.3d478080.chunk.js.map": "/champ-picker/static/js/2.3d478080.chunk.js.map",
     "index.html": "/champ-picker/index.html",
-    "static/css/main.64ff18da.chunk.css.map": "/champ-picker/static/css/main.64ff18da.chunk.css.map",
+    "static/css/main.524dceff.chunk.css.map": "/champ-picker/static/css/main.524dceff.chunk.css.map",
     "static/js/2.3d478080.chunk.js.LICENSE.txt": "/champ-picker/static/js/2.3d478080.chunk.js.LICENSE.txt",
     "static/media/Aatrox_7.jpg": "/champ-picker/static/media/Aatrox_7.6badd6f9.jpg",
     "static/media/Ahri_27.jpg": "/champ-picker/static/media/Ahri_27.005b9488.jpg",
@@ -169,7 +169,7 @@
   "entrypoints": [
     "static/js/runtime-main.8963c201.js",
     "static/js/2.3d478080.chunk.js",
-    "static/css/main.64ff18da.chunk.css",
-    "static/js/main.ad26ace6.chunk.js"
+    "static/css/main.524dceff.chunk.css",
+    "static/js/main.4918e552.chunk.js"
   ]
 }
