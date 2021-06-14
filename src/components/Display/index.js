@@ -23,35 +23,35 @@ function Display(props) {
                 ? <div className="container">
                     <div className="row">
                         <div className="card col-md-2 col-4 mx-2" >
-                            <img src={props.champies[props.teamComp.top.icon].default} className="card-img-top" alt={props.teamComp.top.name + " icon"} />
+                            <img src={props.champies[props.teamComp.top.icon].default} className="card-img-top teamIcon" alt={props.teamComp.top.name + " icon"} />
                             <div className="card-body">
                                 <p className="card-text">Top: {props.teamComp.top.name}</p>
                             </div>
                         </div>
 
                         <div className="card col-md-2 col-4 mx-2" >
-                            <img src={props.champies[props.teamComp.jg.icon].default} className="card-img-top" alt={props.teamComp.jg.name + " icon"} />
+                            <img src={props.champies[props.teamComp.jg.icon].default} className="card-img-top teamIcon" alt={props.teamComp.jg.name + " icon"} />
                             <div className="card-body">
                                 <p className="card-text">Jungle: {props.teamComp.jg.name}</p>
                             </div>
                         </div>
 
                         <div className="card col-md-2 col-4 mx-2">
-                            <img src={props.champies[props.teamComp.mid.icon].default} className="card-img-top" alt={props.teamComp.mid.name + " icon"} />
+                            <img src={props.champies[props.teamComp.mid.icon].default} className="card-img-top teamIcon" alt={props.teamComp.mid.name + " icon"} />
                             <div className="card-body">
                                 <p className="card-text">Mid: {props.teamComp.mid.name}</p>
                             </div>
                         </div>
 
                         <div className="card col-md-2 col-4 mx-2">
-                            <img src={props.champies[props.teamComp.bot.icon].default} className="card-img-top" alt={props.teamComp.bot.name + " icon"} />
+                            <img src={props.champies[props.teamComp.bot.icon].default} className="card-img-top teamIcon" alt={props.teamComp.bot.name + " icon"} />
                             <div className="card-body">
                                 <p className="card-text">Bot: {props.teamComp.bot.name}</p>
                             </div>
                         </div>
 
                         <div className="card col-md-2 col-4 mx-2">
-                            <img src={props.champies[props.teamComp.sup.icon].default} className="card-img-top" alt={props.teamComp.sup.name + " icon"} />
+                            <img src={props.champies[props.teamComp.sup.icon].default} className="card-img-top teamIcon" alt={props.teamComp.sup.name + " icon"} />
                             <div className="card-body">
                                 <p className="card-text">Support: {props.teamComp.sup.name}</p>
                             </div>
