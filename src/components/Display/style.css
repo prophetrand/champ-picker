@@ -10,6 +10,7 @@ hr {
 }
 
 .card {
+    margin-top: 1.5em;
     animation: fadeIn 1s ease-in-out;
     border: 3px solid #12050e;
     border-radius: 8px;
@@ -37,12 +38,13 @@ hr {
 .display {
     width: 50vh;
     display: block;
-    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1.5em;
     background-color: #cca7c3;
     padding: 8px;
     padding-bottom: 5%;
     border: 3px solid #12050e;
     border-radius: 8px;
+    animation: fadeIn 1s ease-in-out;
 }
