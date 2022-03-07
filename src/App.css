@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
 .App {
     background-color: #ffebf1;
     height: 100vh;
     padding-top: 15px;
     box-sizing: border-box;
+    font-family: 'Fredoka';
 }
