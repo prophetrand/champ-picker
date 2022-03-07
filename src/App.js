@@ -40,11 +40,11 @@ function App() {
         supLoad.push(champ);
       }
     });
-    console.log("Top champs in the bucket:", topLoad);
-    console.log("Jg champs in the bucket:", jgLoad);
-    console.log("Mid champs in the bucket:", midLoad);
-    console.log("Bot champs in the bucket:", botLoad);
-    console.log("Sup champs in the bucket:", supLoad)
+    // console.log("Top champs in the bucket:", topLoad);
+    // console.log("Jg champs in the bucket:", jgLoad);
+    // console.log("Mid champs in the bucket:", midLoad);
+    // console.log("Bot champs in the bucket:", botLoad);
+    // console.log("Sup champs in the bucket:", supLoad)
 
     setTop(topLoad);
     setJg(jgLoad);

@@ -52,3 +52,12 @@ hr {
     0% {opacity:0;}
     100% {opacity:1;}
 }
+
+.roleColor {
+    padding: 0.3em;
+    border: 0.16em solid rgba(255,0,255, 0);
+    border-radius: 0.5em;
+    box-sizing: border-box;
+    font-weight: 600;
+    color: whitesmoke;
+}

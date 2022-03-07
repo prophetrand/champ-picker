@@ -1,0 +1,16 @@
+h2 {
+    font-weight: bold;
+    width: auto;
+    text-align: center;
+}
+
+.nav {
+    background-color: rgb(248, 206, 236);
+    padding: 0.5em;
+    height: 70px;
+    width: 100%;
+    justify-content: center;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+}

@@ -4,8 +4,8 @@ import "./style.css";
 function Header() {
 
     return (
-        <div>
-
+        <div className="nav">
+            <h2>Welcome to Rand Picker</h2>
         </div>
     );
 }
