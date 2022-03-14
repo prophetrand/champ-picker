@@ -17,6 +17,7 @@ function Display(props) {
                     <hr />
                     <p style={{ fontStyle: "italic" }}>Roles: {roleDisplay}</p>
                     <p>You're playing it: <span style={{ fontWeight: "bold" }}>{props.role}</span></p>
+                    <a href='https://na.op.gg/champions/tryndamere/top/build' target={"_blank"} rel="noreferrer">OP.GG build</a>
                 </div>
                 : ""}
             {props.teamComp.top
