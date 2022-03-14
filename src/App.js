@@ -19,25 +19,25 @@ function App() {
 
   function loadChamps() {
 
-    // Callback function in forEach checks allChamps (champs.json) for every champ's roles and sorts each champ object into the appropriate array to be passed as props.
+    // Callback function in forEach checks allChamps (champs.json) for every champ's roless and sorts each champ object into the appropriate array to be passed as props.
     allChamps.forEach(champ => {
-      if (champ.role.includes("top")) {
+      if (champ.roles.includes("top")) {
         topLoad.push(champ);
       }
 
-      if (champ.role.includes("jg")) {
+      if (champ.roles.includes("jg")) {
         jgLoad.push(champ);
       }
 
-      if (champ.role.includes("mid")) {
+      if (champ.roles.includes("mid")) {
         midLoad.push(champ);
       }
 
-      if (champ.role.includes("bot")) {
+      if (champ.roles.includes("bot")) {
         botLoad.push(champ);
       }
 
-      if (champ.role.includes("sup")) {
+      if (champ.roles.includes("sup")) {
         supLoad.push(champ);
       }
     });

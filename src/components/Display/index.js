@@ -5,7 +5,12 @@ function Display(props) {
 
     let champResult = props.champResult;
     if (champResult.name) {
-        var roleDisplay = champResult.role.join(", ")
+        var roleDisplay = champResult.roles.join(", ");
+        if (props.role.includes(" ")) {
+            var opLink = "https://na.op.gg/champions/" + champResult.name;
+        } else {
+            var opLink = "https://na.op.gg/champions/" + champResult.name + "/" + props.role + "/build";
+        }
     }
 
     return (
@@ -17,7 +22,7 @@ function Display(props) {
                     <hr />
                     <p style={{ fontStyle: "italic" }}>Roles: {roleDisplay}</p>
                     <p>You're playing it: <span style={{ fontWeight: "bold" }}>{props.role}</span></p>
-                    <a href='https://na.op.gg/champions/tryndamere/top/build' target={"_blank"} rel="noreferrer">OP.GG build</a>
+                    <a href={opLink} target={"_blank"} rel="noreferrer">OP.GG build for {champResult.name}</a>
                 </div>
                 : ""}
             {props.teamComp.top
