@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import allChamps from "./champs.json";
+import Header from "./components/Header"
 import Settings from "./components/Settings";
 import "./App.css";
 
@@ -71,6 +72,7 @@ function App() {
   return (
     <div>
       <div className="App">
+        <Header />
         <Settings
           champies={champies}
           allChamps={allChamps}

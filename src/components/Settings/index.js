@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Display from '../Display';
-import Header from '../Header';
 import "./style.css";
 
 function Settings(props) {
@@ -48,7 +47,6 @@ function Settings(props) {
 
   return (
     <div style={{paddingTop: "80px"}}>
-      <Header />
       <div style={{textAlign: "center"}}>
         <button className="roles" style={{backgroundColor: "#3d0608"}} onClick={() => randomChoice(props.topChamps, "Top")}>Random Top</button>
         <button className="roles" style={{backgroundColor: "#100126"}} onClick={() => randomChoice(props.jgChamps, "Jungle")}>Random Jungle</button>
